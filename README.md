@@ -1,3 +1,7 @@
+# photo Pace Koding
+![](./paulus_sesa.jpeg) <hr>
+
+
 # SERTIFACATE👇 
 <hr>
 Of Appreciation For Moderator 
@@ -8,8 +12,6 @@ Topic :<h3>"Pengembangan Bisnis Startup Dari Ide Hingga Peluncuran"</h3>
 Date  : 05/08/2023
 Duration : 2 Hours (On Google Meet).
 
-# photo pace koding
-![](./paulus_sesa.jpeg) <hr>
 
 # photo sertificate
 ![](./certificate.jpeg) <hr>
