@@ -1,4 +1,4 @@
-# photo Pace Koding
+# Pace Koding
 ![](./paulus_sesa.jpeg) <hr>
 
 
@@ -47,6 +47,17 @@ Silahkan daftar dan belajar.</h2> <hr>
 <p>PHP IF Else</p>
 <p>PHP Arrays</p>
 <p>PHP Form</p> <hr>
+<p>Mysql Introduction</p>
+<p>Mysql Create</p>
+<p>Mysql Connect DB</p>
+<p>Mysql Insert</p>
+<p>Mysql Select</p>
+<p>Mysql Update</p>
+<p>PHPMyadmin</p> <hr>
+
+![](./paul.png)
+
+
 
 
 ![](./kursus.jpeg)
