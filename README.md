@@ -39,15 +39,23 @@ Silahkan daftar dan belajar.</h2> <hr>
 
 # SERTIFICATE PHP & MYSQLY
 <h3>Topic or Skills</h3>
-<p>Git & Github</p> 			| <p>Mysql Introduction</p>
-<p>Framework Tailwind CSS</p>	| <p>Mysql Create</p>
-<p>PHP Introduction</p>			| <p>Mysql Connect DB</p>
-<p>PHP Variable</p>				| <p>Mysql Insert</p>
-<p>PHP Data Types</p>			| <p>Mysql Select</p>
-<p>PHP IF Else</p>				| <p>Mysql Update</p>
-<p>PHP Arrays</p>				| <p>Mysql Delete</p>
-<p>PHP Form</p>					| <p>PHPMyadmin</p>
-<hr>
+<p>Git & Github</p> 			
+<p>Framework Tailwind CSS</p>	
+<p>PHP Introduction</p>			
+<p>PHP Variable</p>				
+<p>PHP Data Types</p>			
+<p>PHP IF Else</p>				
+<p>PHP Arrays</p>				
+<p>PHP Form</p>					
+<br>
+<p>Mysql Introduction</p>
+<p>Mysql Create</p>
+<p>Mysql Connect DB</p>
+<p>Mysql Insert</p>
+<p>Mysql Select</p>
+<p>Mysql Update</p>
+<p>Mysql Delete</p>
+<p>PHPMyadmin</p>
 
 ![](./paul.png)
 <hr>
