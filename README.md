@@ -6,11 +6,11 @@
 <p>Documentasi kegiatan berbagi dan diskusi
 komunitas SaCode setiap Akhir pekan.</p>
 
-<h2>Terimaksih kepada Billy Rumbiak
-yang telah menajdi Speaker di SaCode's TechShare.</h2>
+<p>Terimaksih kepada <h2>Billy Rumbiak</h2>
+yang telah menajdi Speaker di SaCode's TechShare.</p>
 
 <p>Billy telah menyampaikan materi dan berbagi tentang Java Script Dom 
-<span>Document Object Model </span> </p>
+<h2>Document Object Model </h2></p>
 
 # Documentation
 ![](./foto5.png) <hr>
@@ -21,7 +21,7 @@ yang telah menajdi Speaker di SaCode's TechShare.</h2>
 
 
 # SERTIFACATE MODERATOR👇 
-<h2>Terimaksihm<span>Paulus Sesa</span>sudah Kontribusi di Komunitas SaCode sebagai Moderator </h2>
+<p>Terimakasih <h2>Paulus Sesa</h2> sudah Kontribusi di Komunitas SaCode sebagai Moderator </p>
 
 ![](./TechShare.png) <hr>
 
