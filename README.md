@@ -2,6 +2,30 @@
 ![](./paulus_sesa.jpeg) <hr>
 
 
+# SaCode's TechShare 2024
+<p>Documentasi kegiatan berbagi dan diskusi
+komunitas SaCode setiap Akhir pekan.</p>
+
+<h2>Terimaksih kepada Billy Rumbiak
+yang telah menajdi Speaker di SaCode's TechShare.</h2>
+
+<p>Billy telah menyampaikan materi dan berbagi tentang Java Script Dom 
+<span>Document Object Model </span> </p>
+
+# Documentation
+![](./foto5.png) <hr>
+![](./foto6.png) <hr>
+![](./foto7.png) <hr>
+![](./foto8.png) <hr>
+
+
+
+# SERTIFACATE MODERATOR👇 
+<h2>Terimaksihm<span>Paulus Sesa</span>sudah Kontribusi di Komunitas SaCode sebagai Moderator </h2>
+
+![](./TechShare.png) <hr>
+
+
 # SERTIFACATE👇 
 <hr>
 Of Appreciation For Moderator 
