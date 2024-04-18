@@ -1,4 +1,4 @@
-# Pace Koding
+## Junior Developer 
 ![](./paulus_sesa.jpeg) <hr>
 
 
