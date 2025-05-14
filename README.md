@@ -1,18 +1,26 @@
-## Junior Developer 
+##### Junior Developer 
 ![](./paulus_sesa.jpeg) <hr>
 
 
-# SaCode's TechShare 2024
+##### Comunity Development
+![](./1.jpeg)
+![](./2.jpeg)
+![](./3.jpeg)
+
+##### SERTIFACATE👇
+![](./smp.png) 
+
+##### SaCode's TechShare 2024
 <p>Documentasi kegiatan berbagi dan diskusi
 komunitas SaCode setiap Akhir pekan.</p>
 
-<p>Terimaksih kepada <h2>Billy Rumbiak</h2>
+<p>Terimaksih kepada <h6>Billy Rumbiak</h6>
 yang telah menajdi Speaker di SaCode's TechShare.</p>
 
 <p>Billy telah menyampaikan materi dan berbagi tentang Java Script Dom 
-<h2>Document Object Model </h2></p>
+<h6>Document Object Model </h6></p>
 
-# Documentation
+##### Documentation
 ![](./foto5.png) <hr>
 ![](./foto6.png) <hr>
 ![](./foto7.png) <hr>
@@ -20,34 +28,34 @@ yang telah menajdi Speaker di SaCode's TechShare.</p>
 
 
 
-# SERTIFACATE MODERATOR👇 
-<p>Terimakasih <h2>Paulus Sesa</h2> sudah Kontribusi di Komunitas SaCode sebagai Moderator </p>
+##### SERTIFACATE MODERATOR👇 
+<p>Terimakasih <h6>Paulus Sesa</h6> sudah Kontribusi di Komunitas SaCode sebagai Moderator </p>
 
 ![](./TechShare.png) <hr>
 
 
-# SERTIFACATE👇 
+##### SERTIFACATE👇 
 <hr>
 Of Appreciation For Moderator 
 This Certificate Is Awarded To
-<h1>PAULUS SESA</h1>
+<h6>PAULUS SESA</h6>
 For giving his willingness as a Moderator in SaCode Community during SaCode's Weekend Event.
-Topic :<h3>"Pengembangan Bisnis Startup Dari Ide Hingga Peluncuran"</h3>
+Topic :<h5>"Pengembangan Bisnis Startup Dari Ide Hingga Peluncuran"</h5>
 Date  : 05/08/2023
 Duration : 2 Hours (On Google Meet).
 
 
-# PHOTO SERTIFICATE
+##### PHOTO SERTIFICATE
 ![](./certificate.jpeg) <hr>
 
-# SaCode's Weekend 2023
+##### SaCode's Weekend 2023
 <p>Dokumentasi kegiatan berbagi dan diskusi 
 Komunitas SaCode setiap Akhir pekan.</p>
 
 
-<h2>Terimakasih kepada Daniel Sedik
+<h6>Terimakasih kepada Daniel Sedik
 yang telah menjadi speaker
-di SaCode's Weekend.</h2>
+di SaCode's Weekend.</h6>
 
 <p>Daniel telah menyampaikan materi dan berbagi
 tentang Penerapan Pengembangan Bisnis Startup 
@@ -56,12 +64,12 @@ Dari Ide Hingga Peluncuran</p>
 ![](./weekend.jpeg)
 
 
-# SaCode's Courses
-<h2>Kursus coding yang saat ini sedang buka di SaCode.
-Silahkan daftar dan belajar.</h2> <hr>
+##### SaCode's Courses
+<h6>Kursus coding yang saat ini sedang buka di SaCode.
+Silahkan daftar dan belajar.</h6> <hr>
 
-# SERTIFICATE PHP & MYSQLY
-<h3>Topic or Skills</h3>
+##### SERTIFICATE PHP & MYSQLY
+<h5>Topic or Skills</h5>
 <p>Git & Github</p> 			
 <p>Framework Tailwind CSS</p>	
 <p>PHP Introduction</p>			
@@ -83,14 +91,14 @@ Silahkan daftar dan belajar.</h2> <hr>
 ![](./paul.png)
 <hr>
 
-# PROGRAM KURSUS
+##### PROGRAM KURSUS
 ![](./kursus.jpeg)
-## https://sacode.web.id/laravel
-## https://sacode.web.id/html-css
-## https://sacode.eb.id/php-mysql
+##### https://sacode.web.id/laravel
+##### https://sacode.web.id/html-css
+##### https://sacode.eb.id/php-mysql
 
 
-## [Community SaCode](https://www.sacode.web.id/)
-<H1>Happy Coding💻🚀</H1>
+##### [Community SaCode](https://www.sacode.web.id/)
+<H5>Happy Coding💻🚀</H5>
 
 
