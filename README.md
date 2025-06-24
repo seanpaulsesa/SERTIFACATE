@@ -1,6 +1,8 @@
 ##### Junior Developer 
 ![](./paulus_sesa.jpeg) <hr>
 
+### SERTIFIKAT KELAS JAVASCRIPT
+![](./Paulus%20Sesa.png)
 
 ##### Comunity Development
 ![](./1.jpeg)
